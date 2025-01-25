@@ -89,6 +89,8 @@ Terdapat dua tabel utama:
 
 ### 7. Contoh Tampilan Program
 
+![image](https://github.com/user-attachments/assets/94b63333-a4c1-405e-b456-c59d8ca695cb)
+
 
 
 Aplikasi ini dirancang untuk mempermudah proses pengelolaan KRS dengan antarmuka yang sederhana dan mudah digunakan.
