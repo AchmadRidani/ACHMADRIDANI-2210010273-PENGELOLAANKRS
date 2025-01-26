@@ -89,7 +89,8 @@ Terdapat dua tabel utama:
 
 ### 7. Contoh Tampilan Program
 
-![image](https://github.com/user-attachments/assets/94b63333-a4c1-405e-b456-c59d8ca695cb)
+![image](https://github.com/user-attachments/assets/e4e0c25a-9a41-4f45-891d-9fca4f84a7c2)
+
 
 
 
